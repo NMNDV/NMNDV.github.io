@@ -1,2 +1,2 @@
 # NMNDV.github.io
-My portfolio website
+My personal website
